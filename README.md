@@ -8,20 +8,22 @@ For more comprehensive documentation, please refer to the (https://www.gnu.org/s
 
 # Before proceeding
 
-#### {Browse} and graphical commands on Dorothy TUI
+## {Browse} and graphical commands on Dorothy TUI
 Due to X11 and its dependencies being omitted from the TUI version of Dorothy (Oz + Mozart OPI in Docker), code that utilises graphics libraries or makes use of a window manager may exhibit unexpected behaviour.
 Thus, instead of e.g. `{Browse}`, users are strongly recommended to use alternatives such as {Show} whenever possible.
 
-#### Command abbreviations
+## Command abbreviations
 Commands in Emacs and other text user interfaces generally use the Ctrl key or Meta key (labeled Win, Alt, Edit or Super depending on your layout).
 
 However, instead of writing this each time, it's common to use the following abbreviations:
 
-`C-<character>`: Hold Ctrl while typing <character>.
-`M-<character>`: Hold Ctrl while typing <character>.
+`C-<character>`: Hold Ctrl while typing [character].
+
+`M-<character>`: Hold Ctrl while typing [character].
+
 *Note: For users without a Meta key, the same effect can be achieved by pressing and releasing Esc and then typing the character.*
 
-# General
+## General
 
 #### Text Menu
 `M-x`
@@ -33,7 +35,7 @@ Use arrow keys to navigate between sub-menus and Enter to select.
 #### Exit
 `C-x C-c` or Menu Bar > File > Quit
 
-# Emacs
+## Emacs
 
 #### Emacs Tutorial
 Menu Bar > Help > Emacs Tutorial or `C-h t`
@@ -41,7 +43,7 @@ Menu Bar > Help > Emacs Tutorial or `C-h t`
 #### If all else fails
 Menu Bar > Help > Emacs Psychotherapist or `M-x doctor`
 
-# Oz
+## Oz
 
 #### Feed Buffer
 Menu Bar > Oz > Feed Buffer or `C-. C-b`
