@@ -4,7 +4,7 @@ A collection of essential commands for operating the Emacs-based TUI (Text User 
 
 This is by no means an exhaustive list, merely the essentials for interfacing to Mozart via Emacs.
 
-For more comprehensive documentation, please refer to the (https://www.gnu.org/software/emacs/manual/emacs.html)[GNU Emacs Manual] or built-in Emacs Tutorial (see below).
+For more comprehensive Emacs documentation, please refer to the (GNU Emacs Manual)[https://www.gnu.org/software/emacs/manual/emacs.html] or built-in Emacs Tutorial (see below).
 
 # Before proceeding
 
