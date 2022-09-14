@@ -9,7 +9,7 @@ For more comprehensive documentation, please refer to the (https://www.gnu.org/s
 # Before proceeding
 
 ## {Browse} and graphical commands on Dorothy TUI
-Due to X11 and its dependencies being omitted from the TUI version of Dorothy (Oz + Mozart OPI in Docker), code that utilises graphics libraries or makes use of a window manager may exhibit unexpected behaviour.
+Due to X11 and its dependencies being omitted from the TUI version of [Dorothy](https://github.com/richarah/dorothy) (Oz + Mozart OPI in Docker), code that utilises graphics libraries or makes use of a window manager may exhibit unexpected behaviour.
 Thus, instead of e.g. `{Browse}`, users are strongly recommended to use alternatives such as {Show} whenever possible.
 
 ## Command abbreviations
