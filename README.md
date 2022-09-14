@@ -26,8 +26,6 @@ However, instead of writing this each time, it's common to use the following abb
 
 # Commands
 
-## General
-
 #### Text Menu
 `M-x`
 
