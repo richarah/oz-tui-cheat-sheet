@@ -24,6 +24,8 @@ However, instead of writing this each time, it's common to use the following abb
 
 *Note: For users without a Meta key, the same effect can be achieved by pressing and releasing Esc and then typing the character.*
 
+# Commands
+
 ## General
 
 #### Text Menu
