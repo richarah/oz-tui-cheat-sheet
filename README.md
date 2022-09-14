@@ -1,6 +1,6 @@
 # Oz TUI Cheat Sheet
 
-A collection of essential commands for operating the Emacs-based text user interface of the Mozart OPI (Oz Programming Interface).
+A collection of essential commands for operating the Emacs-based TUI (Text User Interface) of the Mozart OPI.
 
 This is by no means an exhaustive list, merely the essentials for interfacing to Mozart via Emacs.
 
