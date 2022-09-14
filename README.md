@@ -2,9 +2,7 @@
 
 A collection of essential commands for operating the Emacs-based TUI (Text User Interface) of the Mozart OPI.
 
-This is by no means an exhaustive list, merely the essentials for interfacing to Mozart via Emacs.
-
-For more comprehensive Emacs documentation, please refer to the [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html) or built-in Emacs Tutorial (see below).
+This is by no means an exhaustive list, merely the essentials for interfacing to Oz via Emacs. For more comprehensive Emacs documentation, please refer to the [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html) or built-in Emacs Tutorial (see below).
 
 # Before proceeding
 
